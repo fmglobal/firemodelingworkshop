@@ -60,7 +60,7 @@ _Note: no workshops from 2020-2022 due to COVID-19 pandemic_
 ### Attendence Programs and Group Photos
 
 <div class="button-container">
-  <a href="{{ site.github.repository_url }}/tree/main/archive/attendence" target="_blank" class="button">Attendence</a>
+  <a href="{{ site.github.repository_url }}/tree/main/archive/attendees" target="_blank" class="button">Attendees</a>
   <a href="{{ site.github.repository_url }}/tree/main/archive/programs" target="_blank" class="button">Programs</a>
   <a href="{{ site.github.repository_url }}/tree/main/archive/photos" target="_blank" class="button">Photos</a>
 </div>
