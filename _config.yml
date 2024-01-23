@@ -23,8 +23,8 @@ email: your-email@example.com
 description: | # this means to ignore newlines until "baseurl:"
   April 17th - 18th 2024
   At Four Points by Sheraton Norwood
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://fmglobal.github.io/firemodelingworkshop/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/firemodelingworkshop" # the subpath of your site, e.g. /blog
+url: "https://fmglobal.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
