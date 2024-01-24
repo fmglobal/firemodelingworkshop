@@ -20,11 +20,12 @@ Submissions are welcomed for both oral and poster presentations, in the form of 
 
 ### Key Dates
 
+
+*   Registration deadline - March 5th 2024
+*   Abstract submission deadline (oral presentation) - March 5th 2024
+*   Abstract submission deadline (poster presentation) - March 5th 2024
+*   Notification of acceptance - March 12th 2024
 *   Discounted booking at Four Points by Sheraton Norwood - March 18th 2024
-*   Registration deadline - March 22nd 2024
-*   Abstract submission deadline (oral presentation) - March 22nd 2024
-*   Abstract submission deadline (poster presentation) - March 22nd 2024
-*   Notification of acceptance - March 29th 2024
 *   Conference dates - April 17th to 18th 2024 
 
 ### Venue
@@ -32,9 +33,9 @@ Submissions are welcomed for both oral and poster presentations, in the form of 
 The conference will be held at the Four Points by Sheraton Norwood. A discounted rate for accommodation is available at this venue through a block booking:
 
 * Book via phone - +1.(781).769.7900
-* Book via email -  Lucy.Finnerty@hobbsbrook.com.
+* Book via email -  Lucy.Finnerty@hobbsbrook.com
 * Include reference - "FM Global Open Source CFD Fire Modeling Workshop"
-* Block booking rate expiry - March 18th.
+* Block booking rate expiry - March 18th
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3579.8013777119777!2d-71.19759945384317!3d42.175556824765955!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e47e27d2a8041f%3A0xbea69834124e883d!2sFour%20Points%20by%20Sheraton%20Norwood!5e0!3m2!1sen!2sau!4v1703117523996!5m2!1sen!2sau" width="300" height="225" style="border:0;" allowfullscreen="false" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
