@@ -20,6 +20,7 @@ Submissions are welcomed for both oral and poster presentations, in the form of 
 
 ### Key Dates
 
+*   Discounted booking at Four Points by Sheraton Norwood - March 18th 2024
 *   Registration deadline - March 22nd 2024
 *   Abstract submission deadline (oral presentation) - March 22nd 2024
 *   Abstract submission deadline (poster presentation) - March 22nd 2024
@@ -28,11 +29,20 @@ Submissions are welcomed for both oral and poster presentations, in the form of 
 
 ### Venue
 
-Four Points by Sheraton Norwood.
-
-A block booking has been made for the workshop. Please organize your booking by calling +1.(781).769.7900 or via email at Lucy.Finnerty@hobbsbrook.com. In your booking please reference "FM Global Open Source CFD Fire Modeling Workshop".
+The conference will be held at the Four Points by Sheraton Norwood. A block booking has been made for the workshop. Please organize your booking by calling +1.(781).769.7900 or via email at Lucy.Finnerty@hobbsbrook.com. In your booking please reference "FM Global Open Source CFD Fire Modeling Workshop". To access the block booking rate, please complete your booking by March 18th.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3579.8013777119777!2d-71.19759945384317!3d42.175556824765955!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e47e27d2a8041f%3A0xbea69834124e883d!2sFour%20Points%20by%20Sheraton%20Norwood!5e0!3m2!1sen!2sau!4v1703117523996!5m2!1sen!2sau" width="300" height="225" style="border:0;" allowfullscreen="false" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+Alternatively, you can make your own reservations at hotels within a short walking distance from the workshop hotel:
+ 
+* Courtyard Boston Norwood/Canton
+300 River Ridge Dr, Norwood, MA 02062
+ 
+* Holiday Inn Express & Suites Norwood
+225 Norwood Park S, Norwood, MA 02062
+ 
+* Residence Inn by Marriott Boston Norwood/Canton
+275 Norwood Park S, Norwood, MA 02062
 
 * * *
 
@@ -56,6 +66,8 @@ _Note: no workshops from 2020-2022 due to COVID-19 pandemic_
   <a href="{{ site.github.repository_url }}/tree/main/archive/2010" target="_blank" class="gray-button">2010 (TBA)</a>
   <a href="{{ site.github.repository_url }}/tree/main/archive/2009" target="_blank" class="gray-button">2009 (TBA)</a>
 </div>
+
+_Disclaimer: The materials available on this website are provided for informational purposes only. Please note that the views and opinions expressed in these materials are those of the individual authors and do not necessarily reflect the official policy or position of FM Global or any other affiliated organization. The inclusion of these materials on this website does not imply endorsement, approval, or recommendation by FM Global. The materials are provided "as is" without any warranties, express or implied, including but not limited to the warranties of accuracy, completeness, or fitness for a particular purpose. In no event shall FM Global be liable for any damages or losses arising from the use of or reliance on these materials._
 
 ### Attendence Programs and Group Photos
 
