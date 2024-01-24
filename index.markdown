@@ -9,7 +9,7 @@ layout: base
 
 ### Instructions for Attendees
 
-All attendees are required to register prior to attending. Registration is free and includes lunch, light refreshments, and a banquet dinner.
+Registration is free and required for all attendees. Capacity is limited and while we endevour to accept all registrations, priority will be given to presenters. Notification of successful registration will be sent by March 29th.
 
 Submissions are welcomed for both oral and poster presentations, in the form of an abstract under 300 words. For multiple submissions per corresponding author, please complete the submission form once per item. Notification of acceptance will be communicated to authors following a review process.
 
@@ -30,9 +30,9 @@ Submissions are welcomed for both oral and poster presentations, in the form of 
 
 Four Points by Sheraton Norwood.
 
-<a href="https://www.marriott.com/en-us/hotels/bosof-four-points-norwood/overview/" target="_blank" class="button">Book Accommodation</a>
+A block booking has been made for the workshop. Please organize your booking by calling +1.(781).769.7900 or via email at Lucy.Finnerty@hobbsbrook.com. In your booking please reference "FM Global Open Source CFD Fire Modeling Workshop".
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3579.8013777119777!2d-71.19759945384317!3d42.175556824765955!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e47e27d2a8041f%3A0xbea69834124e883d!2sFour%20Points%20by%20Sheraton%20Norwood!5e0!3m2!1sen!2sau!4v1703117523996!5m2!1sen!2sau" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3579.8013777119777!2d-71.19759945384317!3d42.175556824765955!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e47e27d2a8041f%3A0xbea69834124e883d!2sFour%20Points%20by%20Sheraton%20Norwood!5e0!3m2!1sen!2sau!4v1703117523996!5m2!1sen!2sau" width="300" height="225" style="border:0;" allowfullscreen="false" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 * * *
 
