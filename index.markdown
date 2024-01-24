@@ -29,10 +29,7 @@ Submissions are welcomed for both oral and poster presentations, in the form of 
 
 ### Venue
 
-The conference will be held at the Four Points by Sheraton Norwood.
-
-#### Block Booking
-A block booking has been made for the workshop. 
+The conference will be held at the Four Points by Sheraton Norwood. A discounted rate for accommodation is available at this venue through a block booking:
 
 * Book via phone - +1.(781).769.7900
 * Book via email -  Lucy.Finnerty@hobbsbrook.com.
