@@ -69,8 +69,6 @@ _Note: no workshops from 2020-2022 due to COVID-19 pandemic_
   <a href="{{ site.github.repository_url }}/tree/main/archive/2009" target="_blank" class="gray-button">2009 (TBA)</a>
 </div>
 
-_Disclaimer: The materials available on this website are provided for informational purposes only. Please note that the views and opinions expressed in these materials are those of the individual authors and do not necessarily reflect the official policy or position of FM Global or any other affiliated organization. The inclusion of these materials on this website does not imply endorsement, approval, or recommendation by FM Global. The materials are provided "as is" without any warranties, express or implied, including but not limited to the warranties of accuracy, completeness, or fitness for a particular purpose. In no event shall FM Global be liable for any damages or losses arising from the use of or reliance on these materials._
-
 ### Attendence Programs and Group Photos
 
 <div class="button-container">
@@ -90,3 +88,7 @@ FM Global hosts this annual workshop as a forum for experts from industry, gover
 ### FM Global
 
 Established nearly two centuries ago, FM Global is a mutual insurance company whose capital, scientific research capability and engineering expertise are solely dedicated to property risk management. Mitigating risk is the mark of resilient companies. And one-third of Fortune 1000 companies choose to partner with FM Global.
+
+### Disclaimer
+
+The materials available on this website are provided for informational purposes only. Please note that the views and opinions expressed in these materials are those of the individual authors and do not necessarily reflect the official policy or position of FM Global or any other affiliated organization. The inclusion of these materials on this website does not imply endorsement, approval, or recommendation by FM Global. The materials are provided "as is" without any warranties, express or implied, including but not limited to the warranties of accuracy, completeness, or fitness for a particular purpose. In no event shall FM Global be liable for any damages or losses arising from the use of or reliance on these materials.
