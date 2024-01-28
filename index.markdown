@@ -13,7 +13,7 @@ Registration is free and required for all attendees. Capacity is limited and whi
 
 Submissions are welcomed for both oral and poster presentations, in the form of an abstract under 300 words. For multiple submissions per corresponding author, please complete the submission form once per item. Notification of acceptance will be communicated to authors following a review process. 
 
-Upon completion of the workshop, authors may provide a compressed PDF (<20MB) of their presentation/poster if they wish for it to be archived on this website, subject to FM Global's <a href="" target="_blank">Terms of Use</a>. Instructions will be provided during the workshop.
+Upon completion of the workshop, authors may provide a compressed PDF (<20MB) of their presentation/poster if they wish for it to be archived on this website. Further instructions will be provided during the workshop.
 
 <div class="button-container">
   <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=k8a3xUhIUUS7AuqSPmvrUip_3voh2mFPlx2hYVhmtmJUREgwNkM0NERCM1hMUFZPN0pWRloxRkRHVyQlQCN0PWcu" target="_blank" class="button">Register</a>
