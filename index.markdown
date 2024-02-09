@@ -60,13 +60,13 @@ _Note: no workshops from 2020-2022 due to COVID-19 pandemic_
 <div class="button-container">
   <a href="{{ site.github.repository_url }}/tree/main/archive/2023" target="_blank" class="button">2023</a>
   <a href="{{ site.github.repository_url }}/tree/main/archive/2019" target="_blank" class="button">2019</a>
-  <a href="{{ site.github.repository_url }}/tree/main/archive/2018" target="_blank" class="gray-button">2018 (TBA)</a>
-  <a href="{{ site.github.repository_url }}/tree/main/archive/2017" target="_blank" class="gray-button">2017 (TBA)</a>
-  <a href="{{ site.github.repository_url }}/tree/main/archive/2016" target="_blank" class="gray-button">2016 (TBA)</a>
-  <a href="{{ site.github.repository_url }}/tree/main/archive/2015" target="_blank" class="gray-button">2015 (TBA)</a>
+  <a href="{{ site.github.repository_url }}/tree/main/archive/2018" target="_blank" class="button">2018</a>
+  <a href="{{ site.github.repository_url }}/tree/main/archive/2017" target="_blank" class="button">2017</a>
+  <a href="{{ site.github.repository_url }}/tree/main/archive/2016" target="_blank" class="button">2016</a>
+  <a href="{{ site.github.repository_url }}/tree/main/archive/2015" target="_blank" class="button">2015</a>
   <a href="{{ site.github.repository_url }}/tree/main/archive/2014" target="_blank" class="gray-button">2014 (TBA)</a>
-  <a href="{{ site.github.repository_url }}/tree/main/archive/2013" target="_blank" class="gray-button">2013 (TBA)</a>
-  <a href="{{ site.github.repository_url }}/tree/main/archive/2012" target="_blank" class="gray-button">2012 (TBA)</a>
+  <a href="{{ site.github.repository_url }}/tree/main/archive/2013" target="_blank" class="button">2013</a>
+  <a href="{{ site.github.repository_url }}/tree/main/archive/2012" target="_blank" class="button">2012</a>
   <a href="{{ site.github.repository_url }}/tree/main/archive/2011" target="_blank" class="gray-button">2011 (TBA)</a>
   <a href="{{ site.github.repository_url }}/tree/main/archive/2010" target="_blank" class="gray-button">2010 (TBA)</a>
   <a href="{{ site.github.repository_url }}/tree/main/archive/2009" target="_blank" class="gray-button">2009 (TBA)</a>
