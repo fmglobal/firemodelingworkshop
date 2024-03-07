@@ -19,8 +19,6 @@ If you have any queries, please submit them through the "Query" form below and w
   <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=k8a3xUhIUUS7AuqSPmvrUip_3voh2mFPlx2hYVhmtmJURUZYOUQxQzNMVjJFNFRWWjRPT09XN1pIOCQlQCN0PWcu" target="_blank" class="button">Queries</a>
 </div>
 
-https://forms.office.com/Pages/ResponsePage.aspx?id=k8a3xUhIUUS7AuqSPmvrUip_3voh2mFPlx2hYVhmtmJURUZYOUQxQzNMVjJFNFRWWjRPT09XN1pIOCQlQCN0PWcu
-
 <!-- 
 Registration is free and required for all attendees. Capacity is limited and while we endevour to accept all registrations, priority will be given to presenters. Notification of successful registration will be sent by March 12th.
 
