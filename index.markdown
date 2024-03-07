@@ -9,23 +9,38 @@ layout: base
 
 ### Instructions for Attendees
 
+Registrations and submissions have now closed for the 2024 workshop. Due to the significant interest we are unfortunately unable to accommodate all potential attendees or guarantee oral presentation for all submission, but we sincerely thank every applicant for their interest in this event.
+
+We will soon notify everyone who registered and submitted content regarding acceptance and presentation modes if applicable. The technical program will also be posted here when available.
+
+If you have any queries, please submit them through the "Query" form below and we will respond as soon as possible.
+
+<div class="button-container">
+  <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=k8a3xUhIUUS7AuqSPmvrUip_3voh2mFPlx2hYVhmtmJURUZYOUQxQzNMVjJFNFRWWjRPT09XN1pIOCQlQCN0PWcu" target="_blank" class="button">Queries</a>
+</div>
+
+https://forms.office.com/Pages/ResponsePage.aspx?id=k8a3xUhIUUS7AuqSPmvrUip_3voh2mFPlx2hYVhmtmJURUZYOUQxQzNMVjJFNFRWWjRPT09XN1pIOCQlQCN0PWcu
+
+<!-- 
 Registration is free and required for all attendees. Capacity is limited and while we endevour to accept all registrations, priority will be given to presenters. Notification of successful registration will be sent by March 12th.
 
 Submissions are welcomed for both oral and poster presentations, in the form of an abstract under 300 words. For multiple submissions per corresponding author, please complete the submission form once per item. Notification of acceptance will be communicated to authors following a review process. 
 
 Upon completion of the workshop, authors may provide a compressed PDF (<20MB) of their presentation/poster if they wish for it to be archived on this website. Further instructions will be provided during the workshop.
 
+
 <div class="button-container">
   <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=k8a3xUhIUUS7AuqSPmvrUip_3voh2mFPlx2hYVhmtmJUREgwNkM0NERCM1hMUFZPN0pWRloxRkRHVyQlQCN0PWcu" target="_blank" class="button">Register</a>
   <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=k8a3xUhIUUS7AuqSPmvrUip_3voh2mFPlx2hYVhmtmJUNDc1MDA1NDdMRUVNQ1hBN0FHMkgzM1dUOSQlQCN0PWcu" target="_blank" class="button">Submit</a>
 </div>
+-->
 
 ### Key Dates
 
 
-*   Registration deadline - March 5th 2024
-*   Abstract submission deadline (oral presentation) - March 5th 2024
-*   Abstract submission deadline (poster presentation) - March 5th 2024
+*   <s>Registration deadline - March 5th 2024</s>
+*   <s>Abstract submission deadline (oral presentation) - March 5th 2024</s>
+*   <s>Abstract submission deadline (poster presentation) - March 5th 2024</s>
 *   Notification of acceptance - March 12th 2024
 *   Discounted booking at Four Points by Sheraton Norwood - March 18th 2024
 *   Conference dates - April 17th to 18th 2024 
@@ -48,6 +63,13 @@ Alternatively, you can make your own reservations at hotels within a short walki
 * Holiday Inn Express & Suites Norwood - 225 Norwood Park S, Norwood, MA 02062
  
 * Residence Inn by Marriott Boston Norwood/Canton - 275 Norwood Park S, Norwood, MA 02062
+
+### Organizing Committee
+
+* Sergey Dorofeev (committee chair)
+* Yi Wang
+* Dong Zeng
+* Alex Krisman
 
 * * *
 
