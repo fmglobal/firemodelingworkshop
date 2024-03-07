@@ -9,9 +9,9 @@ layout: base
 
 ### Instructions for Attendees
 
-Registrations and submissions have now closed for the 2024 workshop. Due to the significant interest we are unfortunately unable to accommodate all potential attendees or guarantee oral presentation for all submission, but we sincerely thank every applicant for their interest in this event.
+Registrations and submissions have now closed for the 2024 workshop. Due to the significant interest in this event we are unfortunately unable to accommodate all potential attendees or guarantee oral presentation for all submissions, but we sincerely thank every applicant.
 
-We will soon notify everyone who registered and submitted content regarding acceptance and presentation modes if applicable. The technical program will also be posted here when available.
+We will soon notify everyone who registered and submitted content regarding acceptance and presentation modes, if applicable. The technical program will also be posted here when available.
 
 If you have any queries, please submit them through the "Query" form below and we will respond as soon as possible.
 
