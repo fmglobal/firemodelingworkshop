@@ -16,7 +16,7 @@ We will soon notify everyone who registered and submitted content regarding acce
 If you have any queries, please submit them through the "Query" form below and we will respond as soon as possible.
 
 <div class="button-container">
-  <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=k8a3xUhIUUS7AuqSPmvrUip_3voh2mFPlx2hYVhmtmJURUZYOUQxQzNMVjJFNFRWWjRPT09XN1pIOCQlQCN0PWcu" target="_blank" class="button">Queries</a>
+  <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=k8a3xUhIUUS7AuqSPmvrUip_3voh2mFPlx2hYVhmtmJURUZYOUQxQzNMVjJFNFRWWjRPT09XN1pIOCQlQCN0PWcu" target="_blank" class="button">Query</a>
 </div>
 
 <!-- 
@@ -39,7 +39,7 @@ Upon completion of the workshop, authors may provide a compressed PDF (<20MB) of
 *   <s>Registration deadline - March 5th 2024</s>
 *   <s>Abstract submission deadline (oral presentation) - March 5th 2024</s>
 *   <s>Abstract submission deadline (poster presentation) - March 5th 2024</s>
-*   Notification of acceptance - March 12th 2024
+*   <s>Notification of acceptance - March 12th 2024</s>
 *   Discounted booking at Four Points by Sheraton Norwood - March 18th 2024
 *   Conference dates - April 17th to 18th 2024 
 
