@@ -45,16 +45,21 @@ Upon completion of the workshop, authors may provide a compressed PDF (<20MB) of
 
 ### Venue
 
-The conference will be held at the Four Points by Sheraton Norwood. A discounted rate for accommodation is available at this venue through a block booking:
+The conference will be held at the Four Points by Sheraton Norwood. 
+
+<!--
+A discounted rate for accommodation is available at this venue through a block booking:
 
 * Book via phone - +1.(781).769.7900
 * Book via email -  Lucy.Finnerty@hobbsbrook.com
 * Include reference - "FM Global Open Source CFD Fire Modeling Workshop"
 * Block booking rate expiry - March 18th
 
+-->
+
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3579.8013777119777!2d-71.19759945384317!3d42.175556824765955!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e47e27d2a8041f%3A0xbea69834124e883d!2sFour%20Points%20by%20Sheraton%20Norwood!5e0!3m2!1sen!2sau!4v1703117523996!5m2!1sen!2sau" width="300" height="225" style="border:0;" allowfullscreen="false" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-Alternatively, you can make your own reservations at hotels within a short walking distance from the workshop hotel:
+Alternatively, there are several hotels within a short walking distance from the workshop hotel:
  
 * Courtyard Boston Norwood/Canton - 300 River Ridge Dr, Norwood, MA 02062
  
