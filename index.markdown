@@ -40,7 +40,7 @@ Upon completion of the workshop, authors may provide a compressed PDF (<20MB) of
 *   <s>Abstract submission deadline (oral presentation) - March 5th 2024</s>
 *   <s>Abstract submission deadline (poster presentation) - March 5th 2024</s>
 *   <s>Notification of acceptance - March 12th 2024</s>
-*   Discounted booking at Four Points by Sheraton Norwood - March 18th 2024
+*   <s>Discounted booking at Four Points by Sheraton Norwood - March 18th 2024</s>
 *   Conference dates - April 17th to 18th 2024 
 
 ### Venue
