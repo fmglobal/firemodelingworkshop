@@ -7,13 +7,23 @@ layout: base
 
 # 2024 Workshop
 
+### Technical Program
+
+A total of 29 oral presentations and 8 poster presentations have been accepted from 17 institutions across North America, Europe, and Asia-Pacific. Please consult the technical program for all details.
+
+<div class="button-container">
+  <a href="https://github.com/fmglobal/firemodelingworkshop/blob/main/archive/programs/2024.pdf" target="_blank" class="button">2024 Technical Program</a>
+</div>
+
+#### Instructions for Presenters
+
+Each oral presentation has a 25 minute time slot for a 20 minutes presentation with 5 minutes for discussion.
+
+The posters sizes should be approximately of 594 x 841 mm (24 x 33 inches) in vertical (portrait) orientation. Please prepare a short (1-2 slide) presentation for the poster session on Day 1.
+
 ### Instructions for Attendees
 
-Registrations and submissions have now closed for the 2024 workshop. Due to the significant interest in this event we are unfortunately unable to accommodate all potential attendees or guarantee oral presentation for all submissions, but we sincerely thank every applicant.
-
-We will soon notify everyone who registered and submitted content regarding acceptance and presentation modes, if applicable. The technical program will also be posted here when available.
-
-If you have any queries, please submit them through the "Query" form below and we will respond as soon as possible.
+Registrations and submissions have now closed for the 2024 workshop. All attendees and presenters have been notified, please consult the technical program for further details. If you have any other questions, please use the "Query" form below and we will respond as soon as possible.
 
 <div class="button-container">
   <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=k8a3xUhIUUS7AuqSPmvrUip_3voh2mFPlx2hYVhmtmJURUZYOUQxQzNMVjJFNFRWWjRPT09XN1pIOCQlQCN0PWcu" target="_blank" class="button">Query</a>
