@@ -9,7 +9,7 @@ layout: base
 
 ### Technical Program
 
-A total of 29 oral presentations and 8 poster presentations have been accepted from 17 institutions across North America, Europe, and Asia-Pacific. Please consult the technical program for all details.
+A total of 28 oral presentations and 8 poster presentations have been accepted from 17 institutions across North America, Europe, and Asia-Pacific. Please consult the technical program for all details.
 
 <div class="button-container">
   <a href="https://github.com/fmglobal/firemodelingworkshop/blob/main/archive/programs/2024.pdf" target="_blank" class="button">2024 Technical Program</a>
