@@ -7,13 +7,13 @@ layout: base
 
 # 2024 Workshop
 
-### Technical Program
-
-A total of 28 oral presentations and 8 poster presentations have been accepted from 17 institutions across North America, Europe, and Asia-Pacific. Please consult the technical program for all details.
+This year's workshop was held on April 17-18 at the Four Points by Sheraton in Norwood. Over 35 presentations were delivered from researchers traveling from all over the world. Once again, the quality was outstanding and the discussions will lead to further progress in fire science. We would like to warmly thank all participants and we look forward to the 2025 event - stay tuned for further details!
 
 <div class="button-container">
   <a href="https://github.com/fmglobal/firemodelingworkshop/blob/main/archive/programs/2024.pdf" target="_blank" class="button">2024 Technical Program</a>
 </div>
+
+<!--
 
 #### Instructions for Presenters
 
@@ -29,7 +29,7 @@ Registrations and submissions have now closed for the 2024 workshop. All attende
   <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=k8a3xUhIUUS7AuqSPmvrUip_3voh2mFPlx2hYVhmtmJURUZYOUQxQzNMVjJFNFRWWjRPT09XN1pIOCQlQCN0PWcu" target="_blank" class="button">Query</a>
 </div>
 
-<!-- 
+
 Registration is free and required for all attendees. Capacity is limited and while we endevour to accept all registrations, priority will be given to presenters. Notification of successful registration will be sent by March 12th.
 
 Submissions are welcomed for both oral and poster presentations, in the form of an abstract under 300 words. For multiple submissions per corresponding author, please complete the submission form once per item. Notification of acceptance will be communicated to authors following a review process. 
@@ -41,7 +41,7 @@ Upon completion of the workshop, authors may provide a compressed PDF (<20MB) of
   <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=k8a3xUhIUUS7AuqSPmvrUip_3voh2mFPlx2hYVhmtmJUREgwNkM0NERCM1hMUFZPN0pWRloxRkRHVyQlQCN0PWcu" target="_blank" class="button">Register</a>
   <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=k8a3xUhIUUS7AuqSPmvrUip_3voh2mFPlx2hYVhmtmJUNDc1MDA1NDdMRUVNQ1hBN0FHMkgzM1dUOSQlQCN0PWcu" target="_blank" class="button">Submit</a>
 </div>
--->
+
 
 ### Key Dates
 
@@ -57,13 +57,13 @@ Upon completion of the workshop, authors may provide a compressed PDF (<20MB) of
 
 The conference will be held at the Four Points by Sheraton Norwood.
 
-<!--A discounted rate for accommodation is available at this venue through a block booking:
+A discounted rate for accommodation is available at this venue through a block booking:
 
 * Book via phone - +1.(781).769.7900
 * Book via email -  Lucy.Finnerty@hobbsbrook.com
 * Include reference - "FM Global Open Source CFD Fire Modeling Workshop"
 * Block booking rate expiry - March 18th
--->
+
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3579.8013777119777!2d-71.19759945384317!3d42.175556824765955!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e47e27d2a8041f%3A0xbea69834124e883d!2sFour%20Points%20by%20Sheraton%20Norwood!5e0!3m2!1sen!2sau!4v1703117523996!5m2!1sen!2sau" width="300" height="225" style="border:0;" allowfullscreen="false" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -74,6 +74,8 @@ Alternatively, there are several hotels within a short walking distance from the
 * Holiday Inn Express & Suites Norwood - 225 Norwood Park S, Norwood, MA 02062
  
 * Residence Inn by Marriott Boston Norwood/Canton - 275 Norwood Park S, Norwood, MA 02062
+
+-->
 
 ### Organizing Committee
 
@@ -86,6 +88,8 @@ Alternatively, there are several hotels within a short walking distance from the
 
 # Past Workshops
 
+Content returning soon.
+<!--
 ### Archived Presentations
 
 _Note: no workshops from 2020-2022 due to COVID-19 pandemic_
@@ -113,6 +117,7 @@ _Note: no workshops from 2020-2022 due to COVID-19 pandemic_
   <a href="{{ site.github.repository_url }}/tree/main/archive/photos" target="_blank" class="button">Photos</a>
 </div>
 
+-->
 
 * * * 
 
