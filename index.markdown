@@ -89,7 +89,9 @@ Alternatively, there are several hotels within a short walking distance from the
 # Past Workshops
 
 Content returning soon.
+
 <!--
+
 ### Archived Presentations
 
 _Note: no workshops from 2020-2022 due to COVID-19 pandemic_
