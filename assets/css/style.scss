@@ -15,6 +15,7 @@
 h1 {  
     font-family: 'fmFont', sans-serif;  
     font-weight: bold;  
+    color: $primary_color;
   }  
 
 body{
@@ -50,7 +51,7 @@ header#banner {
     text-align: center;  
     text-decoration: none;  
     background-color: $primary_color;  
-    color: #ffffff;  
+    color: $splash_color;  
     padding: 10px 20px;  
     border-radius: 4px;  
     cursor: pointer;  
