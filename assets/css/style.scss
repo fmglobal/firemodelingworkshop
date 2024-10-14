@@ -4,14 +4,22 @@
 @import "variables";
 @import "{{ site.theme }}";
 
+  @font-face {  
+    font-family: 'fmFont';  
+    src: url('/assets/fonts/FMReview-Regular-Web.woff2') format('woff2'),  
+         url('/assets/fonts/FMReview-Regular-Web.woff') format('woff');  
+    font-weight: normal;  
+    font-style: normal;  
+  }  
+
 h1 {  
-    font-family: Arial, sans-serif;  
+    font-family: 'fmFont', sans-serif;  
     font-weight: bold;  
   }  
 
 header {
     background-color: $primary_color;
-    font-family: Arial, sans-serif;  
+    font-family: 'fmFont', sans-serif;  
     font-weight: bold;  
   }
 
@@ -31,7 +39,7 @@ header#banner {
 /* Custom CSS */  
 .button {  
     display: inline-block;  
-    font-family: Arial, sans-serif;  
+    font-family: 'fmFont', sans-serif;  
     font-weight: bold;  
     text-align: center;  
     text-decoration: none;  
@@ -45,7 +53,7 @@ header#banner {
 
   .gray-button {  
     display: inline-block;  
-    font-family: Arial, sans-serif;  
+    font-family: 'fmFont', sans-serif;  
     font-weight: bold;  
     text-align: center;  
     text-decoration: none;  
@@ -67,6 +75,8 @@ header#banner {
     flex-wrap: wrap;
     gap: 10px;
   }
+
+
 
   #project_title {  
     color: $splash_color; 
