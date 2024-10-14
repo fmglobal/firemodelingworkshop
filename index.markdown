@@ -93,6 +93,7 @@ Alternatively, there are several hotels within a short walking distance from the
 _Note: no workshops from 2020-2022 due to COVID-19 pandemic_
 
 <div class="button-container">
+  <a href="{{ site.github.repository_url }}/tree/main/archive/2024" target="_blank" class="button">2024</a>
   <a href="{{ site.github.repository_url }}/tree/main/archive/2023" target="_blank" class="button">2023</a>
   <a href="{{ site.github.repository_url }}/tree/main/archive/2019" target="_blank" class="button">2019</a>
   <a href="{{ site.github.repository_url }}/tree/main/archive/2018" target="_blank" class="button">2018</a>
@@ -102,9 +103,6 @@ _Note: no workshops from 2020-2022 due to COVID-19 pandemic_
   <a href="{{ site.github.repository_url }}/tree/main/archive/2014" target="_blank" class="gray-button">2014 (TBA)</a>
   <a href="{{ site.github.repository_url }}/tree/main/archive/2013" target="_blank" class="button">2013</a>
   <a href="{{ site.github.repository_url }}/tree/main/archive/2012" target="_blank" class="button">2012</a>
-  <a href="{{ site.github.repository_url }}/tree/main/archive/2011" target="_blank" class="gray-button">2011 (TBA)</a>
-  <a href="{{ site.github.repository_url }}/tree/main/archive/2010" target="_blank" class="gray-button">2010 (TBA)</a>
-  <a href="{{ site.github.repository_url }}/tree/main/archive/2009" target="_blank" class="gray-button">2009 (TBA)</a>
 </div>
 
 ### Attendence Programs and Group Photos
