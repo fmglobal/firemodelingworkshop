@@ -18,7 +18,25 @@ h1 {
     color: $primary_color;
   }  
 
-body{
+h2 {  
+    font-family: 'fmFont', sans-serif;  
+    font-weight: bold;  
+    color: $primary_color;
+  }  
+
+h3 {  
+    font-family: 'fmFont', sans-serif;  
+    font-weight: bold;  
+    color: $primary_color;
+  }  
+
+h4 {  
+    font-family: 'fmFont', sans-serif;  
+    font-weight: bold;  
+    color: $primary_color;
+  }  
+
+body {
   font-family: 'fmFont', sans-serif;
   font-weight: normal;
   color: $primary_color;
