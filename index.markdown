@@ -100,7 +100,6 @@ _Note: no workshops from 2020-2022 due to COVID-19 pandemic_
   <a href="{{ site.github.repository_url }}/tree/main/archive/2017" target="_blank" class="button">2017</a>
   <a href="{{ site.github.repository_url }}/tree/main/archive/2016" target="_blank" class="button">2016</a>
   <a href="{{ site.github.repository_url }}/tree/main/archive/2015" target="_blank" class="button">2015</a>
-  <a href="{{ site.github.repository_url }}/tree/main/archive/2014" target="_blank" class="gray-button">2014 (TBA)</a>
   <a href="{{ site.github.repository_url }}/tree/main/archive/2013" target="_blank" class="button">2013</a>
   <a href="{{ site.github.repository_url }}/tree/main/archive/2012" target="_blank" class="button">2012</a>
 </div>
