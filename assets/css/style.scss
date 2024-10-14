@@ -17,6 +17,12 @@ h1 {
     font-weight: bold;  
   }  
 
+body{
+  font-family: 'fmFont', sans-serif;
+  font-weight: normal;
+  color: $primary_color;
+}
+
 header {
     background-color: $primary_color;
     font-family: 'fmFont', sans-serif;  
