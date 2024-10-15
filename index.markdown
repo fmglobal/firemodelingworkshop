@@ -5,13 +5,9 @@
 layout: base
 ---
 
-# 2024 Workshop
+# 2025 Workshop
 
-This year's workshop was held on April 17-18 at the Four Points by Sheraton in Norwood. Over 35 presentations were delivered from researchers traveling from all over the world. Once again, the quality was outstanding and the discussions will lead to further progress in fire science. We would like to warmly thank all participants and we look forward to the 2025 event - stay tuned for further details!
-
-<div class="button-container">
-  <a href="https://github.com/fmglobal/firemodelingworkshop/blob/main/archive/programs/2024.pdf" target="_blank" class="button">2024 Technical Program</a>
-</div>
+Preperations are underway for the 2025 FM Fire Modeling Workshop. Key dates and submission/registration instructions will soon be distributed here and via email.
 
 <!--
 
