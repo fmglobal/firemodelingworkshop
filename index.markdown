@@ -36,13 +36,13 @@ Registration is free and required for all attendees. Capacity is limited and whi
 
 Submissions are welcomed for both oral and poster presentations, in the form of an abstract under 300 words. For multiple submissions per corresponding author, please complete the submission form once per item. Notification of acceptance will be communicated to authors following a review process. 
 
-Upon completion of the workshop, authors may provide a compressed PDF (<20MB) of their presentation/poster if they wish for it to be archived on this website. Further instructions will be provided during the workshop.
-
 ### Instructions for Presenters
 
 Each oral presentation has a 25 minute time slot for a 20 minutes presentation with 5 minutes for discussion.
 
 The posters sizes should be approximately of 594 x 841 mm (24 x 33 inches) in vertical (portrait) orientation. Please prepare a short (1-2 slide) presentation for the poster session on Day 1.
+
+Upon completion of the workshop, authors may provide a compressed PDF (<20MB) of their presentation/poster if they wish for it to be archived on this website. Further instructions will be provided during the workshop.
 
 ### Technical Program
 
