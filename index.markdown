@@ -7,7 +7,65 @@ layout: base
 
 # 2025 Workshop
 
-Preperations are underway for the 2025 FM Fire Modeling Workshop. Key dates and submission/registration instructions will soon be distributed here and via email.
+We are exitied to anounce that the 2025 FM Fire Modeling Workshop will be held at the Four Points by Sheraton in Norwood MA from May 13th to 14th. 
+
+Prospective participants are invited to register and submit abstracts for oral or poster presentation. The abstracts will be evalauated based on their quality and suitability for the objectives of the workshop.
+
+Invitations to attend the workshop without presentation will be extended on the basis of available space. There is no registration fee for the workshop. Invited participants are responsible for their own travel and accommodations. A block of rooms will be reserved at discount rates at the Four Points Hotel by Sheraton, Norwood.
+
+<div class="button-container">
+  <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=k8a3xUhIUUS7AuqSPmvrUip_3voh2mFPlx2hYVhmtmJUMVJZUkxLVkVUTTdaUTRDNTNNMUJPR1FONiQlQCN0PWcu" target="_blank" class="button">Register</a>
+  <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=k8a3xUhIUUS7AuqSPmvrUip_3voh2mFPlx2hYVhmtmJUNUM2NUFFNEpFUUtQRVBENDNKSkNHTDdJTCQlQCN0PWcu" target="_blank" class="button">Submit</a>
+    <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=k8a3xUhIUUS7AuqSPmvrUip_3voh2mFPlx2hYVhmtmJUMTNWMUhPTk5ZUE8wRTRYN0xaOFcyWkhFOCQlQCN0PWcu" target="_blank" class="button">Query</a>
+</div>
+
+
+### Key Dates
+
+*   Registration deadline - February 7th 2025
+*   Abstract submission deadline (oral presentation) - February 7th 2025
+*   Abstract submission deadline (poster presentation) - February 7th 2025
+*   Notification of acceptance - February 17th 2025
+*   Discounted booking at Four Points by Sheraton Norwood open - February 17th 2025
+*   Technical Program released March 28th 2025
+*   Conference dates - May 13th to 14th 2025 
+
+### Instructions for Attendees
+
+Registration is free and required for all attendees. Capacity is limited and while we endevour to accept all registrations, priority will be given to presenters. 
+
+Submissions are welcomed for both oral and poster presentations, in the form of an abstract under 300 words. For multiple submissions per corresponding author, please complete the submission form once per item. Notification of acceptance will be communicated to authors following a review process. 
+
+Upon completion of the workshop, authors may provide a compressed PDF (<20MB) of their presentation/poster if they wish for it to be archived on this website. Further instructions will be provided during the workshop.
+
+### Instructions for Presenters
+
+Each oral presentation has a 25 minute time slot for a 20 minutes presentation with 5 minutes for discussion.
+
+The posters sizes should be approximately of 594 x 841 mm (24 x 33 inches) in vertical (portrait) orientation. Please prepare a short (1-2 slide) presentation for the poster session on Day 1.
+
+### Technical Program
+
+TBA.
+
+### Venue
+
+The conference will be held at the Four Points by Sheraton Norwood.
+
+A discounted rate for accommodation is available at this venue through a block booking:
+
+* Book via phone - TBA
+* Book via email -  TBA
+* Include reference - TBA
+* Block booking rate expiry - TBA
+
+Alternatively, there are several hotels within a short walking distance from the workshop hotel:
+ 
+* Courtyard Boston Norwood/Canton - 300 River Ridge Dr, Norwood, MA 02062
+ 
+* Holiday Inn Express & Suites Norwood - 225 Norwood Park S, Norwood, MA 02062
+ 
+* Residence Inn by Marriott Boston Norwood/Canton - 275 Norwood Park S, Norwood, MA 02062
 
 <!--
 
@@ -24,7 +82,6 @@ Registrations and submissions have now closed for the 2024 workshop. All attende
 <div class="button-container">
   <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=k8a3xUhIUUS7AuqSPmvrUip_3voh2mFPlx2hYVhmtmJURUZYOUQxQzNMVjJFNFRWWjRPT09XN1pIOCQlQCN0PWcu" target="_blank" class="button">Query</a>
 </div>
-
 
 Registration is free and required for all attendees. Capacity is limited and while we endevour to accept all registrations, priority will be given to presenters. Notification of successful registration will be sent by March 12th.
 
