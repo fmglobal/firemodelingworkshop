@@ -14,9 +14,9 @@ Prospective participants are invited to register and submit abstracts for oral o
 Invitations to attend the workshop without presentation will be extended on the basis of available space. There is no registration fee for the workshop. Invited participants are responsible for their own travel and accommodations. A block of rooms will be reserved at discount rates at the Four Points Hotel by Sheraton, Norwood.
 
 <div class="button-container">
-  <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=k8a3xUhIUUS7AuqSPmvrUip_3voh2mFPlx2hYVhmtmJUMVJZUkxLVkVUTTdaUTRDNTNNMUJPR1FONiQlQCN0PWcu" target="_blank" class="button">Register</a>
-  <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=k8a3xUhIUUS7AuqSPmvrUip_3voh2mFPlx2hYVhmtmJUNUM2NUFFNEpFUUtQRVBENDNKSkNHTDdJTCQlQCN0PWcu" target="_blank" class="button">Submit</a>
-    <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=k8a3xUhIUUS7AuqSPmvrUip_3voh2mFPlx2hYVhmtmJUMTNWMUhPTk5ZUE8wRTRYN0xaOFcyWkhFOCQlQCN0PWcu" target="_blank" class="button">Query</a>
+  <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=k8a3xUhIUUS7AuqSPmvrUip_3voh2mFPlx2hYVhmtmJUMVJZUkxLVkVUTTdaUTRDNTNNMUJPR1FONiQlQCN0PWcu" target="_blank" class="button">Register Attendance</a>
+  <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=k8a3xUhIUUS7AuqSPmvrUip_3voh2mFPlx2hYVhmtmJUNUM2NUFFNEpFUUtQRVBENDNKSkNHTDdJTCQlQCN0PWcu" target="_blank" class="button">Submit Abstract</a>
+    <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=k8a3xUhIUUS7AuqSPmvrUip_3voh2mFPlx2hYVhmtmJUMTNWMUhPTk5ZUE8wRTRYN0xaOFcyWkhFOCQlQCN0PWcu" target="_blank" class="button">Send Query</a>
 </div>
 
 
