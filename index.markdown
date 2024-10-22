@@ -9,7 +9,7 @@ layout: base
 
 We are exitied to anounce that the 2025 FM Fire Modeling Workshop will be held at the Four Points by Sheraton in Norwood MA from May 13th to 14th. 
 
-Prospective participants are invited to register and submit abstracts for oral or poster presentation. The abstracts will be evalauated based on their quality and suitability for the objectives of the workshop.
+Prospective participants are invited to register and submit abstracts for oral or poster presentation. The abstracts will be evaluated based on their quality and suitability for the objectives of the workshop.
 
 Invitations to attend the workshop without presentation will be extended on the basis of available space. There is no registration fee for the workshop. Invited participants are responsible for their own travel and accommodations. A block of rooms will be reserved at discount rates at the Four Points Hotel by Sheraton, Norwood.
 
