@@ -22,11 +22,10 @@ Invitations to attend the workshop without presentation will be extended on the 
 
 ### Key Dates
 
-*   Registration deadline - February 7th 2025
-*   Abstract submission deadline (oral presentation) - February 7th 2025
-*   Abstract submission deadline (poster presentation) - February 7th 2025
-*   Notification of acceptance - February 17th 2025
-*   Discounted booking at Four Points by Sheraton Norwood open - February 17th 2025
+*   Registration deadline - February 25th 2025
+*   Abstract submission deadline (oral presentation) - February 25th 2025
+*   Abstract submission deadline (poster presentation) - February 25th 2025
+*   Notification of acceptance and invitations to workshop - March 11th 2025
 *   Technical Program released March 28th 2025
 *   Conference dates - May 13th to 14th 2025 
 
@@ -46,18 +45,20 @@ Upon completion of the workshop, authors may provide a compressed PDF (<20MB) of
 
 ### Technical Program
 
-TBA.
+The technical program will be announced by March 28th.
 
 ### Venue
 
-The conference will be held at the Four Points by Sheraton Norwood.
+The conference will be held at the Four Points by Sheraton Norwood. Details for booking at a discount rate will be released after notifications of acceptance and invitations sent out.
 
+<!--
 A discounted rate for accommodation is available at this venue through a block booking:
 
 * Book via phone - TBA
 * Book via email -  TBA
 * Include reference - TBA
 * Block booking rate expiry - TBA
+-->
 
 Alternatively, there are several hotels within a short walking distance from the workshop hotel:
  
