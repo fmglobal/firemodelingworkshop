@@ -19,6 +19,9 @@ Invitations to attend the workshop without presentation will be extended on the 
     <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=k8a3xUhIUUS7AuqSPmvrUip_3voh2mFPlx2hYVhmtmJUMTNWMUhPTk5ZUE8wRTRYN0xaOFcyWkhFOCQlQCN0PWcu" target="_blank" class="button">Send Query</a>
 </div>
 
+### FireFOAM Training
+
+Depending on the level of interest, we may run a FireFOAM training/demo session on the afternoon of Monday 12th May. Please indicate if you are interested in attending when completing your registrationb form.
 
 ### Key Dates
 
@@ -26,7 +29,8 @@ Invitations to attend the workshop without presentation will be extended on the 
 *   Abstract submission deadline (oral presentation) - February 25th 2025
 *   Abstract submission deadline (poster presentation) - February 25th 2025
 *   Notification of acceptance and invitations to workshop - March 11th 2025
-*   Technical Program released March 28th 2025
+*   Technical Program released - March 28th 2025
+*   (Optional) FireFOAM training/demo session - May 12th 2025
 *   Conference dates - May 13th to 14th 2025 
 
 ### Instructions for Attendees
