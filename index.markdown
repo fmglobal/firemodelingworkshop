@@ -21,7 +21,7 @@ Invitations to attend the workshop without presentation will be extended on the 
 
 ### FireFOAM Training
 
-Depending on the level of interest, we may run a FireFOAM training/demo session on the afternoon of Monday 12th May. Please indicate if you are interested in attending when completing your registrationb form.
+Depending on the level of interest, we may run a FireFOAM training/demo session on the afternoon of Monday 12th May. Please indicate if you are interested in attending when completing your registration form.
 
 ### Key Dates
 
