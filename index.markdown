@@ -25,9 +25,9 @@ Depending on the level of interest, we may run a FireFOAM training/demo session 
 
 ### Key Dates
 
-*   Registration deadline - February 25th 2025
-*   Abstract submission deadline (oral presentation) - February 25th 2025
-*   Abstract submission deadline (poster presentation) - February 25th 2025
+*   Registration deadline - <s>February 25th</s> March 10 2025
+*   Abstract submission deadline (oral presentation) - <s>February 25th</s> March 10 2025
+*   Abstract submission deadline (poster presentation) - <s>February 25th</s> March 10 2025
 *   Notification of acceptance and invitations to workshop - March 11th 2025
 *   Technical Program released - March 28th 2025
 *   (Optional) FireFOAM training/demo session - May 12th 2025
