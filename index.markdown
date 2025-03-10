@@ -9,35 +9,40 @@ layout: base
 
 We are excitied to announce that the 2025 FM Fire Modeling Workshop will be held at the Four Points by Sheraton in Norwood MA from May 13th to 14th. 
 
-Prospective participants are invited to register and submit abstracts for oral or poster presentation. The abstracts will be evaluated based on their quality and suitability for the objectives of the workshop.
+Registrations and submissions are now closed. Thanks to all who have contributed, we will reach out soon with notifications of acceptance and further instructions.
 
+<!--
+Prospective participants are invited to register and submit abstracts for oral or poster presentation. The abstracts will be evaluated based on their quality and suitability for the objectives of the workshop.
+-->
 Invitations to attend the workshop without presentation will be extended on the basis of available space. There is no registration fee for the workshop. Invited participants are responsible for their own travel and accommodations. A block of rooms will be reserved at discount rates at the Four Points Hotel by Sheraton, Norwood.
 
 <div class="button-container">
-  <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=k8a3xUhIUUS7AuqSPmvrUip_3voh2mFPlx2hYVhmtmJUMVJZUkxLVkVUTTdaUTRDNTNNMUJPR1FONiQlQCN0PWcu" target="_blank" class="button">Register Attendance</a>
-  <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=k8a3xUhIUUS7AuqSPmvrUip_3voh2mFPlx2hYVhmtmJUNUM2NUFFNEpFUUtQRVBENDNKSkNHTDdJTCQlQCN0PWcu" target="_blank" class="button">Submit Abstract</a>
+ <!-- <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=k8a3xUhIUUS7AuqSPmvrUip_3voh2mFPlx2hYVhmtmJUMVJZUkxLVkVUTTdaUTRDNTNNMUJPR1FONiQlQCN0PWcu" target="_blank" class="button">Register Attendance</a>
+  <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=k8a3xUhIUUS7AuqSPmvrUip_3voh2mFPlx2hYVhmtmJUNUM2NUFFNEpFUUtQRVBENDNKSkNHTDdJTCQlQCN0PWcu" target="_blank" class="button">Submit Abstract</a> -->
     <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=k8a3xUhIUUS7AuqSPmvrUip_3voh2mFPlx2hYVhmtmJUMTNWMUhPTk5ZUE8wRTRYN0xaOFcyWkhFOCQlQCN0PWcu" target="_blank" class="button">Send Query</a>
 </div>
 
 ### FireFOAM Training
 
-Depending on the level of interest, we may run a FireFOAM training/demo session on the afternoon of Monday 12th May. Please indicate if you are interested in attending when completing your registration form.
+While we received a high level of interest in running a FireFOAM training session, we will be unable to make this happen this year due to time constraints. We plan to revisit this in 2026, thank you for your interest!
+
+<!--Depending on the level of interest, we may run a FireFOAM training/demo session on the afternoon of Monday 12th May. Please indicate if you are interested in attending when completing your registration form.-->
 
 ### Key Dates
 
-*   Registration deadline - <s>February 25th</s> March 10 2025
-*   Abstract submission deadline (oral presentation) - <s>February 25th</s> March 10 2025
-*   Abstract submission deadline (poster presentation) - <s>February 25th</s> March 10 2025
-*   Notification of acceptance and invitations to workshop - March 11th 2025
+*   [CLOSED] Registration deadline - <s>February 25th</s> March 10 2025
+*   [CLOSED] Abstract submission deadline (oral presentation) - <s>February 25th</s> March 10 2025
+*   [CLOSED] Abstract submission deadline (poster presentation) - <s>February 25th</s> March 10 2025
+*   Notification of acceptance and invitations to workshop - <s>March 11th</s> Match 18 2025
 *   Technical Program released - March 28th 2025
-*   (Optional) FireFOAM training/demo session - May 12th 2025
+*   [MOVED TO 2026] <s>(Optional) FireFOAM training/demo session - May 12th 2025</s>
 *   Conference dates - May 13th to 14th 2025 
 
 ### Instructions for Attendees
 
 Registration is free and required for all attendees. Capacity is limited and while we endevour to accept all registrations, priority will be given to presenters. 
 
-Submissions are welcomed for both oral and poster presentations, in the form of an abstract under 300 words. For multiple submissions per corresponding author, please complete the submission form once per item. Notification of acceptance will be communicated to authors following a review process. 
+<s>Submissions are welcomed for both oral and poster presentations, in the form of an abstract under 300 words. For multiple submissions per corresponding author, please complete the submission form once per item. Notification of acceptance will be communicated to authors following a review process. </s>
 
 ### Instructions for Presenters
 
