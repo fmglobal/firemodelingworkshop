@@ -9,12 +9,14 @@ layout: base
 
 We are excitied to announce that the 2025 FM Fire Modeling Workshop will be held at the Four Points by Sheraton in Norwood MA from May 13th to 14th. 
 
-Registrations and submissions are now closed. Thanks to all who have contributed, we will reach out soon with notifications of acceptance and further instructions.
+Registrations and submissions are now closed. Thanks to all who have contributed, we have reached out by email with notifications of accepted registrations and invitations to present in oral or poster format. If you have not received a notification, please use the Send Query button, below. 
 
 <!--
 Prospective participants are invited to register and submit abstracts for oral or poster presentation. The abstracts will be evaluated based on their quality and suitability for the objectives of the workshop.
--->
+
 Invitations to attend the workshop without presentation will be extended on the basis of available space. There is no registration fee for the workshop. Invited participants are responsible for their own travel and accommodations. A block of rooms will be reserved at discount rates at the Four Points Hotel by Sheraton, Norwood.
+-->
+
 
 <div class="button-container">
  <!-- <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=k8a3xUhIUUS7AuqSPmvrUip_3voh2mFPlx2hYVhmtmJUMVJZUkxLVkVUTTdaUTRDNTNNMUJPR1FONiQlQCN0PWcu" target="_blank" class="button">Register Attendance</a>
@@ -30,10 +32,10 @@ While we received a high level of interest in running a FireFOAM training sessio
 
 ### Key Dates
 
-*   [CLOSED] Registration deadline - <s>February 25th</s> March 10 2025
-*   [CLOSED] Abstract submission deadline (oral presentation) - <s>February 25th</s> March 10 2025
-*   [CLOSED] Abstract submission deadline (poster presentation) - <s>February 25th</s> March 10 2025
-*   Notification of acceptance and invitations to workshop - <s>March 11th</s> Match 18 2025
+*   <s> Registration deadline - February 25th extended to March 10 2025</s>
+*   <s> Abstract submission deadline (oral presentation) - February 25th extended to March 10 2025 </s>
+*   <s> Abstract submission deadline (poster presentation) - February 25th extended to March 10 2025 </s>
+*   <s> Notification of acceptance and invitations to workshop - March extended to 11th Match 18 2025 </s>
 *   Technical Program released - March 28th 2025
 *   [MOVED TO 2026] <s>(Optional) FireFOAM training/demo session - May 12th 2025</s>
 *   Conference dates - May 13th to 14th 2025 
@@ -42,7 +44,7 @@ While we received a high level of interest in running a FireFOAM training sessio
 
 Registration is free and required for all attendees. Capacity is limited and while we endevour to accept all registrations, priority will be given to presenters. 
 
-<s>Submissions are welcomed for both oral and poster presentations, in the form of an abstract under 300 words. For multiple submissions per corresponding author, please complete the submission form once per item. Notification of acceptance will be communicated to authors following a review process. </s>
+<!--Submissions are welcomed for both oral and poster presentations, in the form of an abstract under 300 words. For multiple submissions per corresponding author, please complete the submission form once per item. Notification of acceptance will be communicated to authors following a review process. -->
 
 ### Instructions for Presenters
 
@@ -58,16 +60,14 @@ The technical program will be announced by March 28th.
 
 ### Venue
 
-The conference will be held at the Four Points by Sheraton Norwood. Details for booking at a discount rate will be released after notifications of acceptance and invitations sent out.
+The conference will be held at the Four Points by Sheraton Norwood. 
 
-<!--
 A discounted rate for accommodation is available at this venue through a block booking:
 
-* Book via phone - TBA
-* Book via email -  TBA
-* Include reference - TBA
-* Block booking rate expiry - TBA
--->
+* Dates: Monday, May 12th to Thursday, May 15th
+* Book via phone -  +1 (781) 769-7900
+* Include reference - "CFD Workshop"
+* Block booking rate expiry - April 11th
 
 Alternatively, there are several hotels within a short walking distance from the workshop hotel:
  
