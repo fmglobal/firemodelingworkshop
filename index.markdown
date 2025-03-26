@@ -65,7 +65,8 @@ The conference will be held at the Four Points by Sheraton Norwood.
 A discounted rate for accommodation is available at this venue through a block booking:
 
 * Dates: Monday, May 12th to Thursday, May 15th
-* Book via phone -  +1 (781) 769-7900
+* Book via phone -  Lucy Finnerty +1(781)-255-3118
+* Alternate phone - +1(781)769-7900
 * Book via email - Lucy.finnerty@hobbsbrook.com
 * Include reference - "CFD Workshop"
 * Block booking rate expiry - April 11th
