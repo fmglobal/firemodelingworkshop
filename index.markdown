@@ -66,6 +66,7 @@ A discounted rate for accommodation is available at this venue through a block b
 
 * Dates: Monday, May 12th to Thursday, May 15th
 * Book via phone -  +1 (781) 769-7900
+* Book via email - Lucy.finnerty@hobbsbrook.com
 * Include reference - "CFD Workshop"
 * Block booking rate expiry - April 11th
 
