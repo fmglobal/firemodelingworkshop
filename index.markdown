@@ -24,31 +24,11 @@ Invitations to attend the workshop without presentation will be extended on the 
     <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=k8a3xUhIUUS7AuqSPmvrUip_3voh2mFPlx2hYVhmtmJUMTNWMUhPTk5ZUE8wRTRYN0xaOFcyWkhFOCQlQCN0PWcu" target="_blank" class="button">Send Query</a>
 </div>
 
-### FireFOAM Training
-
-While we received a high level of interest in running a FireFOAM training session, we will be unable to make this happen this year due to time constraints. We plan to revisit this in 2026, thank you for your interest!
-
-<!--Depending on the level of interest, we may run a FireFOAM training/demo session on the afternoon of Monday 12th May. Please indicate if you are interested in attending when completing your registration form.-->
-
-### Key Dates
-
-*   <s> Registration deadline - February 25th extended to March 10 2025</s>
-*   <s> Abstract submission deadline (oral presentation) - February 25th extended to March 10 2025 </s>
-*   <s> Abstract submission deadline (poster presentation) - February 25th extended to March 10 2025 </s>
-*   <s> Notification of acceptance and invitations to workshop - March extended to 11th Match 18 2025 </s>
-*   Technical Program released - March 28th 2025
-*   [MOVED TO 2026] <s>(Optional) FireFOAM training/demo session - May 12th 2025</s>
-*   Conference dates - May 13th to 14th 2025 
-
-### Instructions for Attendees
-
-Registration is free and required for all attendees. Capacity is limited and while we endevour to accept all registrations, priority will be given to presenters. 
-
-<!--Submissions are welcomed for both oral and poster presentations, in the form of an abstract under 300 words. For multiple submissions per corresponding author, please complete the submission form once per item. Notification of acceptance will be communicated to authors following a review process. -->
-
 ### Instructions for Presenters
 
-Each oral presentation has a 25 minute time slot for a 20 minutes presentation with 5 minutes for discussion.
+<b> Please bring your own HDMI or USB-C compatible laptop loaded with your slides for presentation</b>.
+
+Each oral presentation has a 25 minute time slot for a 20 minutes presentation with 5 minutes for discussion. 
 
 The posters sizes should be approximately of 594 x 841 mm (24 x 33 inches) in vertical (portrait) orientation. Please prepare a short (1-2 slide) presentation for the poster session.
 
@@ -56,7 +36,12 @@ Upon completion of the workshop, authors may provide a compressed PDF (<20MB) of
 
 ### Technical Program
 
-The technical program will be announced by March 28th.
+The technical program is now available 
+
+<div class="button-container">
+    <a href="https://github.com/fmglobal/firemodelingworkshop/blob/49f7430dbe70a6aada138cc2ab3623d63d52bd57/archive/programs/2025.pdf" target="_blank" class="button">2025 Technical Program</a>
+</div>
+
 
 ### Venue
 
@@ -79,6 +64,29 @@ Alternatively, there are several hotels within a short walking distance from the
  
 * Residence Inn by Marriott Boston Norwood/Canton - 275 Norwood Park S, Norwood, MA 02062
 
+
+
+### Key Dates
+
+*   <s> Registration deadline - February 25th extended to March 10 2025</s>
+*   <s> Abstract submission deadline (oral presentation) - February 25th extended to March 10 2025 </s>
+*   <s> Abstract submission deadline (poster presentation) - February 25th extended to March 10 2025 </s>
+*   <s> Notification of acceptance and invitations to workshop - March extended to 11th Match 18 2025 </s>
+*   <s>Technical Program released - March 28th 2025 </s>
+*   [MOVED TO 2026] <s>(Optional) FireFOAM training/demo session - May 12th 2025</s>
+*   Conference dates - May 13th to 14th 2025 
+
+### Instructions for Attendees
+
+Registration is free and required for all attendees. Capacity is limited and while we endevour to accept all registrations, priority will be given to presenters. 
+
+<!--Submissions are welcomed for both oral and poster presentations, in the form of an abstract under 300 words. For multiple submissions per corresponding author, please complete the submission form once per item. Notification of acceptance will be communicated to authors following a review process. -->
+
+### FireFOAM Training
+
+While we received a high level of interest in running a FireFOAM training session, we will be unable to make this happen this year due to time constraints. We plan to revisit this in 2026, thank you for your interest!
+
+<!--Depending on the level of interest, we may run a FireFOAM training/demo session on the afternoon of Monday 12th May. Please indicate if you are interested in attending when completing your registration form.-->
 <!--
 
 #### Instructions for Presenters
