@@ -24,6 +24,16 @@ Invitations to attend the workshop without presentation will be extended on the 
     <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=k8a3xUhIUUS7AuqSPmvrUip_3voh2mFPlx2hYVhmtmJUMTNWMUhPTk5ZUE8wRTRYN0xaOFcyWkhFOCQlQCN0PWcu" target="_blank" class="button">Send Query</a>
 </div>
 
+
+### Technical Program
+
+The technical program is now available.
+
+<div class="button-container">
+    <a href="https://github.com/fmglobal/firemodelingworkshop/blob/49f7430dbe70a6aada138cc2ab3623d63d52bd57/archive/programs/2025.pdf" target="_blank" class="button">2025 Technical Program</a>
+</div>
+
+
 ### Instructions for Presenters
 
 <b> Please bring your own HDMI or USB-C compatible laptop loaded with your slides for presentation</b>.
@@ -33,14 +43,6 @@ Each oral presentation has a 25 minute time slot for a 20 minutes presentation w
 The posters sizes should be approximately of 594 x 841 mm (24 x 33 inches) in vertical (portrait) orientation. Please prepare a short (1-2 slide) presentation for the poster session.
 
 Upon completion of the workshop, authors may provide a compressed PDF (<20MB) of their presentation/poster if they wish for it to be archived on this website. Further instructions will be provided during the workshop.
-
-### Technical Program
-
-The technical program is now available 
-
-<div class="button-container">
-    <a href="https://github.com/fmglobal/firemodelingworkshop/blob/49f7430dbe70a6aada138cc2ab3623d63d52bd57/archive/programs/2025.pdf" target="_blank" class="button">2025 Technical Program</a>
-</div>
 
 
 ### Venue
