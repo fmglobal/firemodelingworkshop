@@ -30,7 +30,7 @@ Invitations to attend the workshop without presentation will be extended on the 
 The technical program is now available.
 
 <div class="button-container">
-    <a href="https://github.com/fmglobal/firemodelingworkshop/blob/49f7430dbe70a6aada138cc2ab3623d63d52bd57/archive/programs/2025.pdf" target="_blank" class="button">2025 Technical Program</a>
+    <a href="https://github.com/fmglobal/firemodelingworkshop/blob/main/archive/programs/2025.pdf" target="_blank" class="button">2025 Technical Program</a>
 </div>
 
 
