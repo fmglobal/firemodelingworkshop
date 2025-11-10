@@ -89,6 +89,7 @@ Registration is free and required for all attendees. Capacity is limited and whi
 _Note: no workshops from 2020-2022 due to COVID-19 pandemic_
 
 <div class="button-container">
+  <a href="{{ site.github.repository_url }}/tree/main/archive/2025" target="_blank" class="button">2025</a>
   <a href="{{ site.github.repository_url }}/tree/main/archive/2024" target="_blank" class="button">2024</a>
   <a href="{{ site.github.repository_url }}/tree/main/archive/2023" target="_blank" class="button">2023</a>
   <a href="{{ site.github.repository_url }}/tree/main/archive/2019" target="_blank" class="button">2019</a>
