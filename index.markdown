@@ -5,23 +5,34 @@
 layout: base
 ---
 
-# 2025 Workshop
+# 2026 Workshop
 
-Thank you to all attendees for making the 2025 FM Fire Modeling Workshop another successful event. We look forward to welcoming you once more in 2026. Please watch this website for updates in Q4 2025.
-
-<!--
-We are excitied to announce that the 2025 FM Fire Modeling Workshop will be held at the Four Points by Sheraton in Norwood MA from May 13th to 14th. 
-
-Registrations and submissions are now closed. Thanks to all who have contributed, we have reached out by email with notifications of accepted registrations and invitations to present in oral or poster format. If you have not received a notification, please use the Send Query button, below. 
-
+We are excitied to announce that the 2026 FM Fire Modeling Workshop will be held at the Four Points by Sheraton in Norwood MA from May 21-22. 
 
 Prospective participants are invited to register and submit abstracts for oral or poster presentation. The abstracts will be evaluated based on their quality and suitability for the objectives of the workshop.
 
 Invitations to attend the workshop without presentation will be extended on the basis of available space. There is no registration fee for the workshop. Invited participants are responsible for their own travel and accommodations. A block of rooms will be reserved at discount rates at the Four Points Hotel by Sheraton, Norwood.
 
--->
+### Instructions for Attendees
 
-<!--
+<b>Registration is free and required for all attendees. </b> Capacity is limited and while we endevour to accept all registrations, priority will be given to presenters. 
+
+Submissions are welcomed for both oral and poster presentations, in the form of an abstract under 300 words. <b>For multiple submissions per corresponding author, please complete the submission form once per item.</b> Notification of acceptance will be communicated to authors following a review process.
+
+<div class="button-container">
+  <a href="https://forms.office.com/r/yekErQBfrw" target="_blank" class="button">Register Interest</a>
+  <a href="https://forms.office.com/r/L8mZWzEwWW" target="_blank" class="button">Submit Abstract</a>
+</div>
+
+### Key Dates
+
+*   Registration deadline - March 13 2026
+*   Abstract submission deadline (oral/poster presentation) -  March 13 2026
+*   Notification of acceptance and invitations to workshop - March 18 2026 
+*   Technical Program released - March 25 2026 
+*   Conference dates - May 21-22 2026
+
+
 ### Instructions for Presenters
 
 <b> Please bring your own HDMI or USB-C compatible laptop loaded with your slides for presentation</b>.
@@ -32,19 +43,19 @@ The posters sizes should be approximately of 594 x 841 mm (24 x 33 inches) in ve
 
 Upon completion of the workshop, authors may provide a compressed PDF (<20MB) of their presentation/poster if they wish for it to be archived on this website. Further instructions will be provided during the workshop.
 
-
 ### Venue
 
 The conference will be held at the Four Points by Sheraton Norwood. 
 
-A discounted rate for accommodation is available at this venue through a block booking:
+A discounted rate for accommodation is available at this venue through a block booking, details TBA.
 
-* Dates: Monday, May 12th to Thursday, May 15th
+<!--
 * Book via phone -  Lucy Finnerty +1(781)-255-3118
 * Alternate phone - +1(781)769-7900
 * Book via email - Lucy.finnerty@hobbsbrook.com
 * Include reference - "CFD Workshop"
 * Block booking rate expiry - April 11th
+-->
 
 Alternatively, there are several hotels within a short walking distance from the workshop hotel:
  
@@ -56,21 +67,6 @@ Alternatively, there are several hotels within a short walking distance from the
 
 
 
-### Key Dates
-
-*   <s> Registration deadline - February 25th extended to March 10 2025</s>
-*   <s> Abstract submission deadline (oral presentation) - February 25th extended to March 10 2025 </s>
-*   <s> Abstract submission deadline (poster presentation) - February 25th extended to March 10 2025 </s>
-*   <s> Notification of acceptance and invitations to workshop - March extended to 11th Match 18 2025 </s>
-*   <s>Technical Program released - March 28th 2025 </s>
-*   [MOVED TO 2026] <s>(Optional) FireFOAM training/demo session - May 12th 2025</s>
-*   Conference dates - May 13th to 14th 2025 
-
-### Instructions for Attendees
-
-Registration is free and required for all attendees. Capacity is limited and while we endevour to accept all registrations, priority will be given to presenters. 
-
-<!--Submissions are welcomed for both oral and poster presentations, in the form of an abstract under 300 words. For multiple submissions per corresponding author, please complete the submission form once per item. Notification of acceptance will be communicated to authors following a review process. -->
 
 
 ### Organizing Committee
