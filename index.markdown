@@ -20,7 +20,7 @@ Invitations to attend the workshop without presentation will be extended on the 
 Submissions are welcomed for both oral and poster presentations, in the form of an abstract under 300 words. <b>For multiple submissions per corresponding author, please complete the submission form once per item.</b> Notification of acceptance will be communicated to authors following a review process.
 
 <div class="button-container">
-  <a href="https://forms.office.com/r/yekErQBfrw" target="_blank" class="button">Register Interest</a>
+  <a href="https://forms.office.com/r/yekErQBfrw" target="_blank" class="button">Registration</a>
   <a href="https://forms.office.com/r/L8mZWzEwWW" target="_blank" class="button">Submit Abstract</a>
 </div>
 
