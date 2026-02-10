@@ -13,6 +13,13 @@ Prospective participants are invited to register and submit abstracts for oral o
 
 Invitations to attend the workshop without presentation will be extended on the basis of available space. There is no registration fee for the workshop. Invited participants are responsible for their own travel and accommodations. A block of rooms will be reserved at discount rates at the Four Points Hotel by Sheraton, Norwood.
 
+
+### Call for Papers
+ 
+This year we have a special focus on the theme of “Future of Fire Protection”, reflecting two trends in industry: (1) the rapid growth in battery energy storage, data centers, and automation; and (2) increasing interest in applying AI/ML technologies to early anomaly detection and suppression. Progress on traditional fire modeling topics such as combustion, pyrolysis, suppression, and heat transfer, remain in scope and we also welcome submissions on these topics. 
+ 
+We look forward to receiving your abstracts, welcoming returning participants, and meeting new colleagues for an engaging 2026 workshop.
+
 ### Instructions for Attendees
 
 <b>Registration is free and required for all attendees. </b> Capacity is limited and while we endevour to accept all registrations, priority will be given to presenters. 
