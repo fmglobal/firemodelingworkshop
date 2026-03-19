@@ -15,6 +15,8 @@ Invitations to attend the workshop without presentation will be extended on the 
 
 
 ### Call for Papers
+
+<b> Please see deadline extension in Key Dates section</b>
  
 This year we have a special focus on the theme of “Future of Fire Protection”, reflecting two trends in industry: (1) the rapid growth in battery energy storage, data centers, and automation; and (2) increasing interest in applying AI/ML technologies to early anomaly detection and suppression. Progress on traditional fire modeling topics such as combustion, pyrolysis, suppression, and heat transfer, remain in scope and we also welcome submissions on these topics. 
  
@@ -33,10 +35,10 @@ Submissions are welcomed for both oral and poster presentations, in the form of 
 
 ### Key Dates
 
-*   Registration deadline - March 13 2026
-*   Abstract submission deadline (oral/poster presentation) -  March 13 2026
-*   Notification of acceptance and invitations to workshop - March 18 2026 
-*   Technical Program released - March 25 2026 
+*   Registration deadline - March <s>13</s> 20 2026
+*   Abstract submission deadline (oral/poster presentation) -  March <s>13</s> 20 2026 
+*   Notification of acceptance and invitations to workshop - March <s>18></s> 27 2026 
+*   Technical Program released - March <s>25</s> 27 2026 
 *   Conference dates - May 21-22 2026
 
 
