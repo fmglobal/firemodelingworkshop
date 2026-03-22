@@ -9,11 +9,19 @@ layout: base
 
 We are excitied to announce that the 2026 FM Fire Modeling Workshop will be held at the Four Points by Sheraton in Norwood MA from May 21-22. 
 
-Prospective participants are invited to register and submit abstracts for oral or poster presentation. The abstracts will be evaluated based on their quality and suitability for the objectives of the workshop.
+Submissions and registrations for this year's workshop are now closed. We have received many high-quality abstracts and we are currently working to finalize the program, which will be released on this website by March 27.
 
-Invitations to attend the workshop without presentation will be extended on the basis of available space. There is no registration fee for the workshop. Invited participants are responsible for their own travel and accommodations. A block of rooms will be reserved at discount rates at the Four Points Hotel by Sheraton, Norwood.
+Notifications of acceptance and invitations to attend the workshop will also be extended by March 27.
 
+A block of rooms will be reserved at discount rates at the Four Points Hotel by Sheraton, Norwood, see details below.
 
+If you have any queries, please use the "Queries" form, below.
+
+<div class="button-container">
+  <a href="https://forms.office.com/r/rbUj3sZTbw" target="_blank" class="button">Queries</a>
+</div>
+
+<!--
 ### Call for Papers
 
 <b> Please see deadline extension in Key Dates section</b>
@@ -21,6 +29,7 @@ Invitations to attend the workshop without presentation will be extended on the 
 This year we have a special focus on the theme of “Future of Fire Protection”, reflecting two trends in industry: (1) the rapid growth in battery energy storage, data centers, and automation; and (2) increasing interest in applying AI/ML technologies to early anomaly detection and suppression. Progress on traditional fire modeling topics such as combustion, pyrolysis, suppression, and heat transfer, remain in scope and we also welcome submissions on these topics. 
  
 We look forward to receiving your abstracts, welcoming returning participants, and meeting new colleagues for an engaging 2026 workshop.
+
 
 ### Instructions for Attendees
 
@@ -32,11 +41,12 @@ Submissions are welcomed for both oral and poster presentations, in the form of 
   <a href="https://forms.office.com/r/yekErQBfrw" target="_blank" class="button">Registration</a>
   <a href="https://forms.office.com/r/L8mZWzEwWW" target="_blank" class="button">Submit Abstract</a>
 </div>
+-->
 
 ### Key Dates
 
-*   Registration deadline - March <s>13</s> 20 2026
-*   Abstract submission deadline (oral/poster presentation) -  March <s>13</s> 20 2026 
+*   <s>Registration deadline - March  20 2026</s>
+*   <s>Abstract submission deadline (oral/poster presentation) -  March 20 2026 </s>
 *   Notification of acceptance and invitations to workshop - March <s>18></s> 27 2026 
 *   Technical Program released - March <s>25</s> 27 2026 
 *   Conference dates - May 21-22 2026
@@ -48,7 +58,7 @@ Submissions are welcomed for both oral and poster presentations, in the form of 
 
 Each oral presentation has a 25 minute time slot for a 20 minutes presentation with 5 minutes for discussion. 
 
-The posters sizes should be approximately of 594 x 841 mm (24 x 33 inches) in vertical (portrait) orientation. Please prepare a short (1-2 slide) presentation for the poster session.
+The posters sizes should be approximately of 594 x 841 mm (24 x 33 inches) in vertical (portrait) orientation. Please prepare a short (1 slide, < 3 minute) presentation for the poster session to introduce/advertise your work.
 
 Upon completion of the workshop, authors may provide a compressed PDF (<20MB) of their presentation/poster if they wish for it to be archived on this website. Further instructions will be provided during the workshop.
 
@@ -56,15 +66,13 @@ Upon completion of the workshop, authors may provide a compressed PDF (<20MB) of
 
 The conference will be held at the Four Points by Sheraton Norwood. 
 
-A discounted rate for accommodation is available at this venue through a block booking, details TBA.
+A discounted rate for accommodation is available at this venue through a block booking.
 
-<!--
 * Book via phone -  Lucy Finnerty +1(781)-255-3118
 * Alternate phone - +1(781)769-7900
 * Book via email - Lucy.finnerty@hobbsbrook.com
-* Include reference - "CFD Workshop"
-* Block booking rate expiry - April 11th
--->
+* Include reference - "FM Fire Modeling Workshop"
+* Block booking rate expiry - April 17th
 
 Alternatively, there are several hotels within a short walking distance from the workshop hotel:
  
@@ -73,9 +81,6 @@ Alternatively, there are several hotels within a short walking distance from the
 * Holiday Inn Express & Suites Norwood - 225 Norwood Park S, Norwood, MA 02062
  
 * Residence Inn by Marriott Boston Norwood/Canton - 275 Norwood Park S, Norwood, MA 02062
-
-
-
 
 
 ### Organizing Committee
