@@ -13,7 +13,7 @@ Submissions and registrations for this year's workshop are now closed. We thank 
 
 Notifications of acceptance and invitations to attend the workshop have been issued by email.
 
-A tentative tentative program is available:
+A tentative program is available:
 
 <div class="button-container">
   <a href="https://github.com/fmglobal/firemodelingworkshop/blob/main/archive/programs/2026-tentative.pdf" target="_blank" class="button">2026 Program (Tentative)</a>
