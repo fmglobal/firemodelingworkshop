@@ -9,13 +9,19 @@ layout: base
 
 We are excitied to announce that the 2026 FM Fire Modeling Workshop will be held at the Four Points by Sheraton in Norwood MA from May 21-22. 
 
-Submissions and registrations for this year's workshop are now closed. We have received many high-quality abstracts and we are currently working to finalize the program, which will be released on this website by March 27.
+Submissions and registrations for this year's workshop are now closed. We thank everyone who has expressed an interest in participating and appreciate the many high-quality abstracts that we have received.
 
-Notifications of acceptance and invitations to attend the workshop will also be extended by March 27.
+Notifications of acceptance and invitations to attend the workshop have been issued by email.
 
-A block of rooms will be reserved at discount rates at the Four Points Hotel by Sheraton, Norwood, see details below.
+A tentative tentative program is available:
+
+<div class="button-container">
+  <a href="https://github.com/fmglobal/firemodelingworkshop/blob/main/archive/programs/2026-tentative.pdf" target="_blank" class="button">2026 Program (Tentative)</a>
+</div>
+
 
 If you have any queries, please use the "Queries" form, below.
+
 
 <div class="button-container">
   <a href="https://forms.office.com/r/rbUj3sZTbw" target="_blank" class="button">Queries</a>
@@ -47,8 +53,9 @@ Submissions are welcomed for both oral and poster presentations, in the form of 
 
 *   <s>Registration deadline - March  20 2026</s>
 *   <s>Abstract submission deadline (oral/poster presentation) -  March 20 2026 </s>
-*   Notification of acceptance and invitations to workshop - March <s>18></s> 27 2026 
-*   Technical Program released - March <s>25</s> 27 2026 
+*   <s>Notification of acceptance and invitations to workshop - March 27 2026 </s>
+*   <s>Technical Program released - March 27 2026 </s>
+*   Hotel block-booking rate expiry - April 17
 *   Conference dates - May 21-22 2026
 
 
