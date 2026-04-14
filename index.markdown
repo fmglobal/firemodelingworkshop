@@ -15,7 +15,7 @@ The discount block-booking for the Four Points by Sheraton expires Friday, April
 
 # 2026 Workshop
 
-We are excitied to announce that the 2026 FM Fire Modeling Workshop will be held at the Four Points by Sheraton in Norwood MA from May 21-22. 
+We are excited to announce that the 2026 FM Fire Modeling Workshop will be held at the Four Points by Sheraton in Norwood MA from May 21-22. 
 
 Submissions and registrations for this year's workshop are now closed. We thank everyone who has expressed an interest in participating and appreciate the many high-quality abstracts that we have received.
 
