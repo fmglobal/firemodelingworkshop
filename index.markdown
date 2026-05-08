@@ -5,14 +5,6 @@
 layout: base
 ---
 
-
-* * *
-# Reminder of Discount Hotel Booking
-
-The discount block-booking for the Four Points by Sheraton expires Friday, April 17. Please see details below for making your reservation using the discount rate.
-
-* * * 
-
 # 2026 Workshop
 
 We are excited to announce that the 2026 FM Fire Modeling Workshop will be held at the Four Points by Sheraton in Norwood MA from May 21-22. 
@@ -62,7 +54,7 @@ Submissions are welcomed for both oral and poster presentations, in the form of 
 *   <s>Abstract submission deadline (oral/poster presentation) -  March 20 2026 </s>
 *   <s>Notification of acceptance and invitations to workshop - March 27 2026 </s>
 *   <s>Technical Program released - March 27 2026 </s>
-*   Hotel block-booking rate expiry - April 17
+*   <s>Hotel block-booking rate expiry - April 17 </s>
 *   Conference dates - May 21-22 2026
 
 
